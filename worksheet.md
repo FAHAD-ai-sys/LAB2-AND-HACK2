@@ -86,7 +86,8 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
-
+  No, because int data type is not limited forthis type of input
+  so if we want to run this we should use long int that have the capacity to take storage
 
 
 
