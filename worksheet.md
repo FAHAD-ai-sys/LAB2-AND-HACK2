@@ -68,11 +68,17 @@ results you observe.
 the exchange amounts for the following inputs:
 
   a) $250.25
-
+Exchange tax = 25.02
+In british pound = 88.96
+In japanese yen = 14375
   b) $1,000.52
-
+Exchange tax = 100.05
+In british pound = 355.68
+In japanese yen = 57472
   c) $968,410.12
-
+Exchange tax = 96841.02
+In british pound = 344269.81
+In japanese yen = 55627900
 
 
 6. Suppose that you had used only `int` types
